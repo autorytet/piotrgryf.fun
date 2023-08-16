@@ -2,7 +2,12 @@ body
 {
 
 font-family: Comic Sans MS;
-background-color: grey;
+background-color: DimGrey;
 color: white;
 
+}
+
+h1 {
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
 }
